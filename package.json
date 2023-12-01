@@ -1,0 +1,17 @@
+{
+  "name": "10x-nerd-buddy",
+  "version": "1.0.0",
+  "description": "This is a thing that studies for US.",
+  "main": "10x-nerd-buddy.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^21.5.2"
+  }
+}
